@@ -1,0 +1,97 @@
+# VR SAPI Import Test
+# PARSING
+
+from google.colab import auth
+auth.authenticate_user()
+
+import gspread
+from oauth2client.client import GoogleCredentials
+
+
+
+gc = gspread.authorize(GoogleCredentials.get_application_default())
+worksheet = gc.open('SportclipsModule1PlayerWTR').sheet1
+
+url = 'https://www.sassieshop.com/2mysteryshopinc/sapi/api/job_import'
+
+
+survey_id = 4663
+client_location_id = 'Test'
+
+# QUESTIONS - PARSED
+question_1 = worksheet.acell('A2').value
+# 2021-11-19
+
+question_991 = worksheet.acell('B2').value
+question_991 = question_991[9:]
+# strips 'Inititals:'
+
+question_1091 = worksheet.acell('C2').value
+question_1091 = question_1091[12:]
+# strips 'Total Score:'
+
+question_1201 = worksheet.acell('D2').value
+question_1201 = question_1201[11:]
+# strips 'Time Taken:'
+
+question_901 = worksheet.acell('E2').value
+question_901 = question_901[10:11]
+# strips 'Question1:' and '(Correct)'
+
+question_1111 = worksheet.acell('F2').value
+question_1111 = question_1111[10:11]
+# strips 'Question2:' and '(Correct)'
+
+question_1121 = worksheet.acell('G2').value
+question_1121 = question_1121[10:11]
+# strips 'Question3:' and '(Correct)'
+
+question_1131 = worksheet.acell('H2').value
+question_1131 = question_1131[10:11]
+# strips 'Question4:' and '(Correct)'
+
+question_1141 = worksheet.acell('I2').value
+question_1141 = question_1141[10:11]
+# strips 'Question5:' and '(Correct)'
+
+question_1151 = worksheet.acell('J2').value
+question_1151 = question_1151[10:11]
+# strips 'Question6:' and '(Correct)'
+
+question_1161 = worksheet.acell('K2').value
+question_1161 = question_1161[10:11]
+# strips 'Question7:' and '(Correct)'
+
+question_1171 = worksheet.acell('L2').value
+question_1171 = question_1171[10:11]
+# strips 'Question8:' and '(Correct)'
+
+question_1181 = worksheet.acell('M2').value
+question_1181 = question_1181[10:11]
+# strips 'Question9:' and '(Correct)'
+
+question_1191 = worksheet.acell('N2').value
+question_1191 = question_1191[11:12]
+# strips 'Question10:' and '(Correct)'
+
+payload = {
+'survey_id': f'{survey_id}',
+'client_location_id': f'{client_location_id}',
+'question_1': f'{question_1}',
+'question_991': f'{question_991}' ,
+'question_1091': f'{question_1091}',
+'question_1201': f'{question_1201}',
+'question_901': f'{question_901}',
+'question_1111': f'{question_1111}',
+'question_1121': f'{question_1121}',
+'question_1131': f'{question_1131}',
+'question_1141': f'{question_1141}',
+'question_1151': f'{question_1151}',
+'question_1161': f'{question_1161}',
+'question_1171': f'{question_1171}',
+'question_1181': f'{question_1181}',
+'question_1191': f'{question_1191}'
+}
+
+r = requests.post(url, headers=headers, json=payload)
+r.json()
