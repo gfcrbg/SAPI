@@ -73,11 +73,11 @@ Query > ClientAnalytics > ClientAnyalytics
 
 
 ## Map  
-Use the [SRI Data Transfer Template](https://docs.google.com/spreadsheets/d/1Z5bAEOPTYxf5mcP0wbOSKjydlQw6xunnAA0oo3hc0O0/edit#gid=1554728526) to map and parse. 
+Use the [SRI -> RBG Data Transfer Template](https://docs.google.com/spreadsheets/d/1Z5bAEOPTYxf5mcP0wbOSKjydlQw6xunnAA0oo3hc0O0/edit#gid=1554728526) to map and parse. 
 
 
 ## Parse  
-Use the [SRI Data Transfer Template](https://docs.google.com/spreadsheets/d/1Z5bAEOPTYxf5mcP0wbOSKjydlQw6xunnAA0oo3hc0O0/edit#gid=1554728526) to map and parse. 
+Use the [SRI -> RBG Data Transfer Template](https://docs.google.com/spreadsheets/d/1Z5bAEOPTYxf5mcP0wbOSKjydlQw6xunnAA0oo3hc0O0/edit#gid=1554728526) to map and parse. 
 
 
 ## Import  
