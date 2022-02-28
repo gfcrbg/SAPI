@@ -13,7 +13,7 @@ The ShopMetrics API is used to query data obtained by Strategic Reflections Inc 
 
 [Knowledge Base Article](https://stratreflections.shopmetrics.com/document.asp?alias=knowledgebase#/article/8af42c08-e554-4e7e-b61b-265422139dd0) 
 
-In reference to the sheets in the [SRI Data Transfer Template](https://docs.google.com/spreadsheets/d/1Z5bAEOPTYxf5mcP0wbOSKjydlQw6xunnAA0oo3hc0O0/edit#gid=1554728526), this is how to query and extract the relevant data:  
+In reference to the sheets in the [SRI -> RBG Data Transfer Template](https://docs.google.com/spreadsheets/d/1Z5bAEOPTYxf5mcP0wbOSKjydlQw6xunnAA0oo3hc0O0/edit#gid=1554728526), this is how to query and extract the relevant data:  
   
 ### Shops  
 
