@@ -26,9 +26,9 @@ Query > ClientAnalytics > ClientAnyalytics
   
 - ClientOrFormIDs: *enter client or form ID*  
   
-- *(Optional)* DateFrom:  *enter shop date*  
+- *(Optional)* DateFrom:  *enter shop date  YYYY-MM-DD*  
 
-- *(Optional)* DateTo:  *enter shop date*
+- *(Optional)* DateTo:  *enter shop date  YYYY-MM-DD*
       
  ### Comments  
  
@@ -39,9 +39,9 @@ Query > ClientAnalytics > ClientAnyalytics
   
 - ClientOrFormIDs: *enter client or form ID*  
   
-- *(Optional)* DateFrom:  *enter shop date*  
+- *(Optional)* DateFrom:  *enter shop date  YYYY-MM-DD*  
 
-- *(Optional)* DateTo:  *enter shop date*
+- *(Optional)* DateTo:  *enter shop date  YYYY-MM-DD*
   
  ### Answers  
  
@@ -52,9 +52,9 @@ Query > ClientAnalytics > ClientAnyalytics
   
 - ClientOrFormIDs: *enter client or form ID*  
   
-- *(Optional)* DateFrom:  *enter shop date*  
+- *(Optional)* DateFrom:  *enter shop date  YYYY-MM-DD*  
 
-- *(Optional)* DateTo:  *enter shop date*
+- *(Optional)* DateTo:  *enter shop date  YYYY-MM-DD*
   
  ### Parser  
  
@@ -67,9 +67,9 @@ Query > ClientAnalytics > ClientAnyalytics
 
 - FormIDs: *enter form ID*  
   
-- *(Optional)* DateFrom:  *enter shop date*  
+- *(Optional)* DateFrom:  *enter shop date  YYYY-MM-DD*  
 
-- *(Optional)* DateTo:  *enter shop date*
+- *(Optional)* DateTo:  *enter shop date  YYYY-MM-DD*
 
 
 ## Map  
