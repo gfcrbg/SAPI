@@ -81,4 +81,4 @@ Use the [SRI Data Transfer Template](https://docs.google.com/spreadsheets/d/1Z5b
 
 
 ## Import  
-Make a copy of the [Job Import - Template.ipynb](https://colab.research.google.com/drive/1Ww-IciRlXQ_JN-719MvRWASAWfZRhNk6#scrollTo=4P0HExNGddjx) to use for your data transfer.
+Make a copy of the [Job Import - Template.ipynb](https://colab.research.google.com/drive/1Ww-IciRlXQ_JN-719MvRWASAWfZRhNk6#scrollTo=4P0HExNGddjx) to use for the data transfer.
