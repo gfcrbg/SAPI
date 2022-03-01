@@ -2,10 +2,10 @@
 
 Four parts to data migration:  
 
-**1.** Extract  
-**2.** Map  
-**3.** Parse  
-**4.** Import  
+**1.** [Extract](https://github.com/gfcrbg/SAPI/blob/main/SRI/README.md#extract)  
+**2.** [Map](https://github.com/gfcrbg/SAPI/blob/main/SRI/README.md#map)  
+**3.** [Parse](https://github.com/gfcrbg/SAPI/blob/main/SRI/README.md#parse)  
+**4.** [Import](https://github.com/gfcrbg/SAPI/blob/main/SRI/README.md#import)  
   
   
 ## Extract  
