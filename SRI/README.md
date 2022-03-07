@@ -60,7 +60,7 @@ Query > ClientAnalytics > ClientAnyalytics
  ### Parser  
  
  #### Path  
- Query > Projects > FormElements 
+ Query > Projects > FormElements > Rowset 4
  
  #### Fields  
   
@@ -68,9 +68,7 @@ Query > ClientAnalytics > ClientAnyalytics
 
 - FormIDs: *enter form ID*  
   
-- *(Optional)* DateFrom:  *enter shop date  YYYY-MM-DD*  
 
-- *(Optional)* DateTo:  *enter shop date  YYYY-MM-DD*
 
 
 ## Map  
