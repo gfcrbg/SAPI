@@ -19,7 +19,7 @@ In reference to the sheets in the [SRI -> RBG Data Transfer Template](https://do
 ### Shops  
 
 #### Path  
-Query > ClientAnalytics > ClientAnyalytics  
+Query > ClientAnalytics > ClientAnalytics  
   
 #### Fields  
 
