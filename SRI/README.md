@@ -34,7 +34,7 @@ Query > ClientAnalytics > ClientAnyalytics
  ### Comments  
  
  #### Path  
- Query > Operations > SurveyInstanceData 
+ Query > Operations > SurveyInstanceData > Rowset 1
  
  #### Fields  
   
@@ -47,7 +47,7 @@ Query > ClientAnalytics > ClientAnyalytics
  ### Answers  
  
  #### Path  
- Query > Operations > SurveyInstanceData 
+ Query > Operations > SurveyInstanceData > Rowset 2
  
  #### Fields  
   
