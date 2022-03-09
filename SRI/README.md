@@ -8,7 +8,7 @@ Four parts to data migration:
 **4.** [Import](https://github.com/gfcrbg/SAPI/blob/main/SRI/README.md#import)  
   
 Report the data transfer results with this sheet:  
-[Template - [Client Name] Data Transfer - Results](https://docs.google.com/spreadsheets/d/14daSBJ6Ikm3l95dxldM5GZ7ALdqA5HXc2skprh6BAoY/edit#gid=0)
+[Template - [Client Name] Data Transfer - Results](https://docs.google.com/spreadsheets/d/14daSBJ6Ikm3l95dxldM5GZ7ALdqA5HXc2skprh6BAoY/edit?usp=sharing)
   
   
 ## Extract  
