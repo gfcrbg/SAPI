@@ -7,6 +7,9 @@ Four parts to data migration:
 **3.** [Parse](https://github.com/gfcrbg/SAPI/blob/main/SRI/README.md#parse)  
 **4.** [Import](https://github.com/gfcrbg/SAPI/blob/main/SRI/README.md#import)  
   
+Report the data transfer results with this sheet:  
+[Template - [Client Name] Data Transfer - Results](https://docs.google.com/spreadsheets/d/14daSBJ6Ikm3l95dxldM5GZ7ALdqA5HXc2skprh6BAoY/edit#gid=0)
+  
   
 ## Extract  
 The ShopMetrics API is used to query data obtained by Strategic Reflections Inc (SRI).  
