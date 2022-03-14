@@ -75,7 +75,9 @@ Query > ClientAnalytics > ClientAnalytics
 
 
 ## Map  
-Be aware of Yes - No - N/A formats.  You will have to manually create the N/A answer position (value: 0) in the parser.  
+Be aware of Yes - No - N/A formats.  You will have to manually create and convert the N/A answer position in the parser.  
+SRI N/A answer position is 0.  
+RBG N/A answer position is 3.
   
 Use the [Template - SRI -> RBG Data Transfer](https://docs.google.com/spreadsheets/d/1Z5bAEOPTYxf5mcP0wbOSKjydlQw6xunnAA0oo3hc0O0/edit?usp=sharing) to map and parse. 
 
