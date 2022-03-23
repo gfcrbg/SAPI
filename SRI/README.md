@@ -22,7 +22,7 @@ In reference to the sheets in the [Template - SRI -> RBG Data Transfer](https://
 ### Shops  
 
 #### Path  
-Query > ClientAnalytics > ClientAnalytics  
+Query > ClientAnalytics > ClientAnalytics > Rowset 1
   
 #### Fields  
 
