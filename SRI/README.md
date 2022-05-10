@@ -28,8 +28,8 @@ Query > ClientAnalytics > ClientAnalytics > Rowset 1
 
 - QuerySpecification:   *copy and paste this -->* ```[Title][Loc ID][Location Address 1][Location Address 2][Location Name][Location State/Region][Location Postal Code][Date][ScorePctXX.XX][Pts][Pts Of][CustLocationProperty001][CustLocationProperty002][CustLocationProperty003][AttachmentsCount][SurveyInstances_ClientAccessStatusID][InstanceID][SurveyInstances_PrecalcRFAsOpen][SurveyInstances_PrecalcRFAsClosed][WorkflowStepID][IsBeingExported][IsExportCompletedButFailed][IsOkForExport][HoldExport][IsExportCompleted][IsSurveyInstanceViewedBySecurityUser][SurveyInstances_TimeStampLastValidated][IsSectionLevel1WeightDefinedPrecalc][Location City][SurveyInstances_RFAStatusID][ClientAuditMode][Location Photo URL][Login][Shopper Name][ORDERBY:Date|DESC]```  
 
-More tags can be added to the query specification, above.  
-See [Client Analytics Field](https://docs.google.com/spreadsheets/d/19im3XgtX9evuZNnKyAdf0lhUHSEoSh8lIMU2C1jR130/edit?usp=sharing) for a list of tags.
+More headings can be added to the query specification, above.  
+See [Client Analytics Field](https://docs.google.com/spreadsheets/d/19im3XgtX9evuZNnKyAdf0lhUHSEoSh8lIMU2C1jR130/edit?usp=sharing) for a list of headings.
   
 - ClientOrFormIDs: *enter client or form ID*  
   
