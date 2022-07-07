@@ -11,4 +11,9 @@ This code utilizes the following:
 *   [Python](https://www.w3schools.com/python/default.asp)  
 *   [Requests](https://docs.python-requests.org/en/master/user/quickstart/#passing-parameters-in-urls)  
 *   [JSON](https://www.w3schools.com/js/js_json.asp)  
-*   [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
+*   [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)  
+  
+  
+
+## July 2022  
+For SAPI imports, open a tracker, enter the number of imported shops and request that the charge flags are turned off.
